@@ -1,0 +1,15 @@
+// part (3)
+**Inhiretence :That child class inherits the properties and methods of a parent class.**
+** Composition:That child cannot Exist without parent 
+**Aggregation:That child can Exist without parent 
+**Association:That taking Instance from parent 
+//////////////////////////////
+
+يابشمهندسه ال
+uml class diagram 
+معرفتش اعمله علي ال 
+paint 
+فرسمته في ورقة كشكول 
+وحسنت شكلها بال
+AI
+وحطيتها في في الفولدر المضغوط
